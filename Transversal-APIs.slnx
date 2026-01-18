@@ -1,5 +1,10 @@
 <Solution>
-  <Project Path="Catalogues/Catalogues.csproj" Id="74972538-0771-4459-be02-6e2844d6f69e" />
+  <Project Path="AuditLog.Api/AuditLog.Api.csproj" Id="59a35c96-873e-41be-9cb6-db3440e2dd4d" />
+  <Project Path="FeatureFlag.Api/FeatureFlag.Api.csproj" Id="c733569f-f6ed-4e74-8fba-7efacad48f6b" />
+  <Project Path="Identity.Api/Identity.Api.csproj" Id="548d988f-e305-4333-858c-78a97f81d362" />
+  <Project Path="ImageProcessing.Api/ImageProcessing.Api.csproj" Id="174d1e24-9820-4151-883d-7f05ccf76db7" />
   <Project Path="LoggingAPI/LoggingAPI.csproj" Id="51cfa011-e7a3-4ea1-85ea-0793d819a02e" />
-  <Project Path="Notification/NotificationApi.csproj" />
+  <Project Path="MasterData.Api/MasterData.Api.csproj" Id="028cd4e4-504c-40ea-a1b8-be2fc9278268" />
+  <Project Path="Notification.Api/Notification.Api.csproj" Id="e6da98bd-4916-43da-9f29-c04a59f7440d" />
+  <Project Path="Permissions.Api/Permissions.Api.csproj" Id="2dff42b3-fd39-433b-87a9-e23240e96706" />
 </Solution>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v1kt0\\OneDrive\\Documentos\\GitHub\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj": {}
+    "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v1kt0\\OneDrive\\Documentos\\GitHub\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj": {
+    "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v1kt0\\OneDrive\\Documentos\\GitHub\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj",
         "projectName": "LoggingAPI",
-        "projectPath": "C:\\Users\\v1kt0\\OneDrive\\Documentos\\GitHub\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj",
+        "projectPath": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\LoggingAPI\\LoggingAPI.csproj",
         "packagesPath": "C:\\Users\\v1kt0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v1kt0\\OneDrive\\Documentos\\GitHub\\Transversal-APIs\\LoggingAPI\\obj\\",
+        "outputPath": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\LoggingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

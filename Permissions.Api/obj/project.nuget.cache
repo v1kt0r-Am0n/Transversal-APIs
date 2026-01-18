@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5HF1BlLiS8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Permissions.Api\\Permissions.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1kt0\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
