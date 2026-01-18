@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Catalogues/Catalogues.csproj" Id="74972538-0771-4459-be02-6e2844d6f69e" />
+  <Project Path="LoggingAPI/LoggingAPI.csproj" Id="51cfa011-e7a3-4ea1-85ea-0793d819a02e" />
+  <Project Path="Notification/NotificationApi.csproj" />
+</Solution>

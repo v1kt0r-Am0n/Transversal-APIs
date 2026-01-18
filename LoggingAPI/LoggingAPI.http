@@ -1,0 +1,11 @@
+@LoggingAPI_HostAddress = http://localhost:5284
+
+GET {{LoggingAPI_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{LoggingAPI_HostAddress}}/todos/1
+Accept: application/json
+
+###
