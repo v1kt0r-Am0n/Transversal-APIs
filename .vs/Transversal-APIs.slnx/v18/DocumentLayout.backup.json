@@ -3,16 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notification\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E6DA98BD-4916-43DA-9F29-C04A59F7440D}|Notification.Api\\Notification.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\notification.api\\controller\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA98BD-4916-43DA-9F29-C04A59F7440D}|Notification.Api\\Notification.Api.csproj|solutionrelative:notification.api\\controller\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notification\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\controller\\authcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\controller\\authcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\NotificationApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notification\\NotificationApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\handlers\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\handlers\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\exceptions\\applicationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\exceptions\\applicationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\handlers\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\handlers\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\handlers\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\handlers\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\commands\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\commands\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\commands\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\commands\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\application\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\application\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +82,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Notification\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Notification\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T11:56:01.354Z",
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification.Api\\Controller\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Notification.Api\\Controller\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification.Api\\Controller\\NotificationsController.cs",
+              "RelativeToolTip": "Notification.Api\\Controller\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:29:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Filters\\ValidationFilter.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "Identity.Api\\Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:28:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Identity.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:28:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:28:17.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:28:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationException.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Exceptions\\ApplicationException.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Exceptions\\ApplicationException.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Exceptions\\ApplicationException.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Exceptions\\ApplicationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:28:00.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Handlers\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Handlers\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Handlers\\LoginCommandHandler.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Handlers\\LoginCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:25:11.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Program.cs",
+              "RelativeToolTip": "Identity.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:25:20.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\Program.cs",
-              "RelativeDocumentMoniker": "Notification\\Program.cs",
-              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\Program.cs",
-              "RelativeToolTip": "Notification\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AuthControllerr.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Controller\\AuthControllerr.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Controller\\AuthControllerr.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Controller\\AuthControllerr.cs",
+              "RelativeToolTip": "Identity.Api\\Controller\\AuthControllerr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAGBewBQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T11:47:20.804Z"
+              "WhenOpened": "2026-01-18T23:22:51.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NotificationApi.csproj",
-              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\NotificationApi.csproj",
-              "RelativeDocumentMoniker": "Notification\\NotificationApi.csproj",
-              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification\\NotificationApi.csproj",
-              "RelativeToolTip": "Notification\\NotificationApi.csproj",
+              "DocumentIndex": 9,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:27:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Identity.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Identity.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-18T11:44:24.932Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T23:26:58.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\appsettings.json",
+              "RelativeToolTip": "Identity.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T23:26:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RefreshTokenCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Handlers\\RefreshTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Handlers\\RefreshTokenCommandHandler.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Handlers\\RefreshTokenCommandHandler.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Handlers\\RefreshTokenCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:25:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Handlers\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Handlers\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Handlers\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Handlers\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:25:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RefreshTokenCommand.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Commands\\RefreshTokenCommand.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Commands\\RefreshTokenCommand.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Commands\\RefreshTokenCommand.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Commands\\RefreshTokenCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:25:08.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Commands\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Commands\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Commands\\RegisterCommand.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Commands\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:25:06.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\Commands\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:25:03.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\DTOs\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Identity.Api\\Application\\DTOs\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Application\\DTOs\\TokenDto.cs",
+              "RelativeToolTip": "Identity.Api\\Application\\DTOs\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:24:57.566Z",
+              "EditorCaption": ""
             }
           ]
         }

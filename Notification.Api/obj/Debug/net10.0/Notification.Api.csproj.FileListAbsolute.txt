@@ -28,3 +28,13 @@ C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Notification.Api\obj\
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.pdb
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.genruntimeconfig.cache
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Notification.Api\obj\Debug\net10.0\ref\Notification.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.AssemblyInfoInputs.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.AssemblyInfo.cs
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.csproj.CoreCompileInputs.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.sourcelink.json
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\refint\Notification.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Notification.Api\obj\Debug\net10.0\Notification.Api.pdb

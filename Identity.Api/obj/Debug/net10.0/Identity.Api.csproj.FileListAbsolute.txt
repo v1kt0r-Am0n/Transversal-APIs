@@ -28,3 +28,13 @@ C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Identity.Api\obj\Debu
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.pdb
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.genruntimeconfig.cache
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\Identity.Api\obj\Debug\net10.0\ref\Identity.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.AssemblyInfoInputs.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.AssemblyInfo.cs
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.csproj.CoreCompileInputs.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.sourcelink.json
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\refint\Identity.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\Identity.Api\obj\Debug\net10.0\Identity.Api.pdb

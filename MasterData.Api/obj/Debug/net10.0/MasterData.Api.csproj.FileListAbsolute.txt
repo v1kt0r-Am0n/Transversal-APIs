@@ -28,3 +28,13 @@ C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\MasterData.Api\obj\De
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.pdb
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.genruntimeconfig.cache
 C:\Users\v1kt0\OneDrive\Documentos\GitHub\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\ref\MasterData.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.AssemblyInfoInputs.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.AssemblyInfo.cs
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.csproj.CoreCompileInputs.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.sourcelink.json
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\refint\MasterData.Api.dll
+C:\Users\v1kt0\source\repos\v1kt0r-Am0n\Transversal-APIs\MasterData.Api\obj\Debug\net10.0\MasterData.Api.pdb
