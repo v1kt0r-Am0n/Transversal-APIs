@@ -8,10 +8,10 @@ namespace MasterData.Api.Controller
     [ApiController]
     public class GeoController : ControllerBase
     {
-        [HttpGet("countries")]
-        public async Task<List<CountryDto>> GetCountries() => await Mediator.Send(new GetCountriesQuery());
+        //[HttpGet("countries")]
+        //public async Task<List<CountryDto>> GetCountries() => await Mediator.Send(new GetCountriesQuery());
 
-        [HttpGet("countries/{code}/states")]
-        public async Task<List<StateDto>> GetStates(string code) => await Mediator.Send(new GetStatesQuery(code));
+        //[HttpGet("countries/{code}/states")]
+        //public async Task<List<StateDto>> GetStates(string code) => await Mediator.Send(new GetStatesQuery(code));
     }
 }

@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Components.Forms;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+//using MediatR; // Si usas MediatR
+//using Notification.Api.Application.Queries; // Ajusta el namespace según donde esté GetNotificationStatusQuery
 
 namespace Notification.Api.Controller
 {
@@ -8,12 +8,19 @@ namespace Notification.Api.Controller
     [ApiController]
     public class NotificationsController : ControllerBase
     {
-        [HttpPost("send")]
-        public async Task<ActionResult<Guid>> Send([FromBody] SendNotificationCommand command)
-        => await Mediator.Send(command);
+        //private readonly IMediator _mediator;
 
-        [HttpGet("status/{id}")]
-        public async Task<ActionResult<NotificationStatusDto>> GetStatus(Guid id)
-            => await Mediator.Send(new GetNotificationStatusQuery(id));
+        //public NotificationsController(IMediator mediator)
+        //{
+        //    _mediator = mediator;
+        //}
+
+        //[HttpPost("send")]
+        //public async Task<ActionResult<Guid>> Send([FromBody] SendNotificationCommand command)
+        //    => await _mediator.Send(command);
+
+        //[HttpGet("status/{id}")]
+        //public async Task<ActionResult<NotificationStatusDto>> GetStatus(Guid id)
+        //    => await _mediator.Send(new GetNotificationStatusQuery(id));
     }
 }

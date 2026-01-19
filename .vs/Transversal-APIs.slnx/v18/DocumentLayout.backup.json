@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6DA98BD-4916-43DA-9F29-C04A59F7440D}|Notification.Api\\Notification.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\notification.api\\controller\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DA98BD-4916-43DA-9F29-C04A59F7440D}|Notification.Api\\Notification.Api.csproj|solutionrelative:notification.api\\controller\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\controller\\authcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|solutionrelative:identity.api\\controller\\authcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA98BD-4916-43DA-9F29-C04A59F7440D}|Notification.Api\\Notification.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\notification.api\\controller\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA98BD-4916-43DA-9F29-C04A59F7440D}|Notification.Api\\Notification.Api.csproj|solutionrelative:notification.api\\controller\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{548D988F-E305-4333-858C-78A97F81D362}|Identity.Api\\Identity.Api.csproj|c:\\users\\v1kt0\\source\\repos\\v1kt0r-am0n\\transversal-apis\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,21 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NotificationsController.cs",
               "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification.Api\\Controller\\NotificationsController.cs",
               "RelativeDocumentMoniker": "Notification.Api\\Controller\\NotificationsController.cs",
-              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification.Api\\Controller\\NotificationsController.cs",
-              "RelativeToolTip": "Notification.Api\\Controller\\NotificationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Notification.Api\\Controller\\NotificationsController.cs*",
+              "RelativeToolTip": "Notification.Api\\Controller\\NotificationsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T23:29:50.607Z",
               "EditorCaption": ""
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Identity.Api\\Filters\\ValidationFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:28:25.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:28:25.344Z"
             },
             {
               "$type": "Document",
@@ -124,8 +119,7 @@
               "RelativeToolTip": "Identity.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:28:20.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:28:20.422Z"
             },
             {
               "$type": "Document",
@@ -137,8 +131,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Exceptions\\UnauthorizedException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:28:17.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:28:17.196Z"
             },
             {
               "$type": "Document",
@@ -150,8 +143,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Exceptions\\ValidationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:28:13.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:28:13.678Z"
             },
             {
               "$type": "Document",
@@ -163,8 +155,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Exceptions\\ApplicationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:28:00.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:28:00.854Z"
             },
             {
               "$type": "Document",
@@ -176,8 +167,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Handlers\\LoginCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:25:11.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:25:11.548Z"
             },
             {
               "$type": "Document",
@@ -189,18 +179,17 @@
               "RelativeToolTip": "Identity.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:25:20.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:25:20.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthControllerr.cs",
               "DocumentMoniker": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Controller\\AuthControllerr.cs",
               "RelativeDocumentMoniker": "Identity.Api\\Controller\\AuthControllerr.cs",
-              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Controller\\AuthControllerr.cs",
-              "RelativeToolTip": "Identity.Api\\Controller\\AuthControllerr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAGBewBQAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\v1kt0\\source\\repos\\v1kt0r-Am0n\\Transversal-APIs\\Identity.Api\\Controller\\AuthControllerr.cs*",
+              "RelativeToolTip": "Identity.Api\\Controller\\AuthControllerr.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T23:22:51.032Z",
               "EditorCaption": ""
@@ -215,8 +204,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\DTOs\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:27:54.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:27:54.558Z"
             },
             {
               "$type": "Document",
@@ -228,8 +216,7 @@
               "RelativeToolTip": "Identity.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T23:26:58.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:26:58.956Z"
             },
             {
               "$type": "Document",
@@ -241,8 +228,7 @@
               "RelativeToolTip": "Identity.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T23:26:52.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:26:52.78Z"
             },
             {
               "$type": "Document",
@@ -254,8 +240,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Handlers\\RefreshTokenCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:25:17.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:25:17.84Z"
             },
             {
               "$type": "Document",
@@ -267,8 +252,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Handlers\\RegisterCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:25:14.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:25:14.586Z"
             },
             {
               "$type": "Document",
@@ -280,8 +264,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Commands\\RefreshTokenCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:25:08.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:25:08.908Z"
             },
             {
               "$type": "Document",
@@ -293,8 +276,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Commands\\RegisterCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:25:06.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:25:06.358Z"
             },
             {
               "$type": "Document",
@@ -306,8 +288,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\Commands\\LoginCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:25:03.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:25:03.345Z"
             },
             {
               "$type": "Document",
@@ -319,8 +300,7 @@
               "RelativeToolTip": "Identity.Api\\Application\\DTOs\\TokenDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T23:24:57.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T23:24:57.566Z"
             }
           ]
         }
